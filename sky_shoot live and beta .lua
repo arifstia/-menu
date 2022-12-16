@@ -1,4 +1,4 @@
-for x = 20,100,100/5 do gg.sleep(500);gg.toast("⌛Loading ["..x.."%]") end  
+
 gg.setVisible(false)
 bian = os.date ('      ⚡SKY CHILDREN OF THE LIGHT ⚡\
 \
