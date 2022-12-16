@@ -2,13 +2,15 @@
 
 
 gg.setVisible(false)
-bian = os.date ('      ⚡SKY CHILDREN OF THE LIGHT ⚡\
+bian = os.date ('      ⚡ have fun ⚡\
 \
            ❦ ════ •⊰❂ - ❂⊱• ════ ❦\
 \
               📆Dᴀᴛᴇ📆 : %d/%m/%Y\
 \
               🕛Tɪᴍᴇ🕛 : %H:%M:%S\
+\
+                   ❤️ BIAN ❤️
 \
            ❦ ════ •⊰❂ - ❂⊱• ════ ❦')
 gg.alert(bian)
@@ -23,7 +25,7 @@ multi = gg.multiChoice({
 "Buy iap old",
 
 
-},nil,'☠️☠️☠️')
+},nil,'😈 SKY CHILDREN OF THE LIGHT 😈')
 
 if multi == nil then else
 if multi[1] == true then B1() end
