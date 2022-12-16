@@ -10,8 +10,6 @@ bian = os.date ('      ⚡ have fun ⚡\
 \
               🕛Tɪᴍᴇ🕛 : %H:%M:%S\
 \
-                   ❤️ BIAN ❤️\
-\
            ❦ ════ •⊰❂ - ❂⊱• ════ ❦')
 gg.alert(bian)
 gg.setVisible(true)
