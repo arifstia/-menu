@@ -10,6 +10,7 @@ bian = os.date ('      ⚡SKY CHILDREN OF THE LIGHT ⚡\
 \
            ❦ ════ •⊰❂ - ❂⊱• ════ ❦')
 gg.alert(bian)
+print(" ❤️ BIAN ❤️ ")
 gg.setVisible(true)
 
 HOME = 1
