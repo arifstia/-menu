@@ -10,6 +10,7 @@ bian = os.date ('      ⚡SKY CHILDREN OF THE LIGHT ⚡\
 \
            ❦ ════ •⊰❂ - ❂⊱• ════ ❦')
 gg.alert(bian)
+gg.copyText(" ❤️ BIAN ❤️ ")
 print(" ❤️ BIAN ❤️ ")
 gg.setVisible(true)
 
@@ -17,8 +18,8 @@ HOME = 1
 
 function HOME()
 multi = gg.multiChoice({
-"LIVE",
-"BETA",
+"SKY LIVE",
+"SKY BETA",
 "Buy iap old",
 
 
