@@ -24,7 +24,7 @@ MENU = gg.choice({
         "EXIT" 
 }, nil, "╭═══════════💜══╮
       |  🇼 🇪 🇱 🇨 🇴 🇲 🇪 |
-         ╰══💜═══════════╯\")
+         ╰══💜═══════════╯")
 if MENU == nil then
   else
    if MENU == 1 then 
