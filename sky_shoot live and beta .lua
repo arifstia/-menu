@@ -12,6 +12,8 @@ bian = os.date ('      ⚡SKY CHILDREN OF THE LIGHT ⚡\
 gg.alert(bian)
 gg.copyText(" ❤️ BIAN ❤️ ")
 print(" ❤️ BIAN ❤️ ")
+gameinfo = gg.getTargetInfo()
+script = {process = {live = 'com.tgc.sky.android', beta = "com.tgc.sky.android.test.gold"}}
 gg.setVisible(true)
 
 HOME = 1
