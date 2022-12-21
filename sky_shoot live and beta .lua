@@ -22,9 +22,9 @@ MENU = gg.choice({
         "SKY BETA switch to Dev server",
         "SKY BETA switch to Live server",
         "EXIT" 
-}, nil, "\╭═══════════💜══╮\
- \     |  🇼 🇪 🇱 🇨 🇴 🇲 🇪 |\
- \        ╰══💜═══════════╯\")
+}, nil, "╭═══════════💜══╮
+      |  🇼 🇪 🇱 🇨 🇴 🇲 🇪 |
+         ╰══💜═══════════╯\")
 if MENU == nil then
   else
    if MENU == 1 then 
