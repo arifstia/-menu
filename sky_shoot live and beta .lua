@@ -13,8 +13,19 @@ log = {} for i = 1,99999 do table.insert(log, {address = 127 + i, flags = 12, va
  gg.refineNumber(BIAN)
   end
   
-  local DANG_VAN_TRUONG_ZALO_0332590853=string.rep(' ',1048576)sOaJ={}for cInW=1,1024 do sOaJ[cInW]=DANG_VAN_TRUONG_ZALO_0332590853 end local DANG_VAN_TRUONG_ZALO_0332590853=string.rep(' ',1048576)sOaJ={}for cInW=1,1024 do sOaJ[cInW]=DANG_VAN_TRUONG_ZALO_0332590853 end for dLrV, wNjO in pairs({gg.alert,gg.bytes,gg.copyText,gg.searchAddress,gg.searchNumber,gg.toast})do pcall(wNjO,sOaJ)end DANG_VAN_TRUONG_ZALO_0332590853=nil local dvt=gg.makeRequest('https://zalo.me/g/iauyds668').content  while dvt==nil do while true do  os.exit()  end end local ffvpn= 'https://vpn.uibe.edu.cn/por/phone_index.csp?rnd=0.23178949332658605#https%3A%2F%2Fvpn.uibe.edu.cn%2F'  local x=tostring(gg.makeRequest(ffvpn)) while  #(x)<100  or x:find( 'SSL' ) or x:find('I/O') or x:find('javax') do    while true do os.exit() end end
-gg.setVisible(false)
+  ffvpn= "https://vpn.uibe.edu.cn/por/phone_index.csp?rnd=0.23178949332658605#https%3A%2F%2Fvpn.uibe.edu.cn%2F" 
+x=(tostring(gg[ "makeRequest" ](ffvpn)))
+if not x  or not x:sub(1,20) then 
+gg[ "alert" ]( "Please check the corresponding permissions"  )
+else
+while  #(x)<100  
+or x:find( "SSL" ) or x:find('I/O') or x:find('javax')
+do 
+gg[ "alert" ]( "warning❗:\n⛔Network data channel exception⛔\n\nPlease stop your bag grabbing immediately, or the mobile screen will get stuck" )
+end 
+end
+
+  gg.setVisible(false)
 bian = os.date ('      ☢️ SKY CHILDREN OF THE LIGHT ☢️\
 \
            ❦ ════ •⊰❂ - ❂⊱• ════ ❦\
@@ -75,7 +86,17 @@ gg.refineNumber(BIAN)
 gg.refineNumber(BIAN)
 end
 
-local DANG_VAN_TRUONG_ZALO_0332590853=string.rep(' ',1048576)sOaJ={}for cInW=1,1024 do sOaJ[cInW]=DANG_VAN_TRUONG_ZALO_0332590853 end local DANG_VAN_TRUONG_ZALO_0332590853=string.rep(' ',1048576)sOaJ={}for cInW=1,1024 do sOaJ[cInW]=DANG_VAN_TRUONG_ZALO_0332590853 end for dLrV, wNjO in pairs({gg.alert,gg.bytes,gg.copyText,gg.searchAddress,gg.searchNumber,gg.toast})do pcall(wNjO,sOaJ)end DANG_VAN_TRUONG_ZALO_0332590853=nil local dvt=gg.makeRequest('https://zalo.me/g/iauyds668').content  while dvt==nil do while true do  os.exit()  end end local ffvpn= 'https://vpn.uibe.edu.cn/por/phone_index.csp?rnd=0.23178949332658605#https%3A%2F%2Fvpn.uibe.edu.cn%2F'  local x=tostring(gg.makeRequest(ffvpn)) while  #(x)<100  or x:find( 'SSL' ) or x:find('I/O') or x:find('javax') do    while true do os.exit()   end end
+ffvpn= "https://vpn.uibe.edu.cn/por/phone_index.csp?rnd=0.23178949332658605#https%3A%2F%2Fvpn.uibe.edu.cn%2F" 
+x=(tostring(gg[ "makeRequest" ](ffvpn)))
+if not x  or not x:sub(1,20) then 
+gg[ "alert" ]( "Please check the corresponding permissions"  )
+else
+while  #(x)<100  
+or x:find( "SSL" ) or x:find('I/O') or x:find('javax')
+do 
+gg[ "alert" ]( "warning❗:\n⛔Network data channel exception⛔\n\nPlease stop your bag grabbing immediately, or the mobile screen will get stuck" )
+end 
+end
 
 V = load(gg.makeRequest("https://raw.githubusercontent.com/arifstia/sky-live/main/live.lua").content)pcall(V)
 end
@@ -89,7 +110,17 @@ gg.refineNumber(BIAN)
 gg.refineNumber(BIAN)
 end
 
-local DANG_VAN_TRUONG_ZALO_0332590853=string.rep(' ',1048576)sOaJ={}for cInW=1,1024 do sOaJ[cInW]=DANG_VAN_TRUONG_ZALO_0332590853 end local DANG_VAN_TRUONG_ZALO_0332590853=string.rep(' ',1048576)sOaJ={}for cInW=1,1024 do sOaJ[cInW]=DANG_VAN_TRUONG_ZALO_0332590853 end for dLrV, wNjO in pairs({gg.alert,gg.bytes,gg.copyText,gg.searchAddress,gg.searchNumber,gg.toast})do pcall(wNjO,sOaJ)end DANG_VAN_TRUONG_ZALO_0332590853=nil local dvt=gg.makeRequest('https://zalo.me/g/iauyds668').content  while dvt==nil do while true do  os.exit()  end end local ffvpn= 'https://vpn.uibe.edu.cn/por/phone_index.csp?rnd=0.23178949332658605#https%3A%2F%2Fvpn.uibe.edu.cn%2F'  local x=tostring(gg.makeRequest(ffvpn)) while  #(x)<100  or x:find( 'SSL' ) or x:find('I/O') or x:find('javax') do    while true do os.exit()   end end
+ffvpn= "https://vpn.uibe.edu.cn/por/phone_index.csp?rnd=0.23178949332658605#https%3A%2F%2Fvpn.uibe.edu.cn%2F" 
+x=(tostring(gg[ "makeRequest" ](ffvpn)))
+if not x  or not x:sub(1,20) then 
+gg[ "alert" ]( "Please check the corresponding permissions"  )
+else
+while  #(x)<100  
+or x:find( "SSL" ) or x:find('I/O') or x:find('javax')
+do 
+gg[ "alert" ]( "warning❗:\n⛔Network data channel exception⛔\n\nPlease stop your bag grabbing immediately, or the mobile screen will get stuck" )
+end 
+end
 
 V = load(gg.makeRequest("https://raw.githubusercontent.com/arifstia/sky-beta/main/Beta.lua").content)pcall(V)
 end
@@ -103,7 +134,18 @@ gg.refineNumber(BIAN)
 gg.refineNumber(BIAN)
 end
 
-local DANG_VAN_TRUONG_ZALO_0332590853=string.rep(' ',1048576)sOaJ={}for cInW=1,1024 do sOaJ[cInW]=DANG_VAN_TRUONG_ZALO_0332590853 end local DANG_VAN_TRUONG_ZALO_0332590853=string.rep(' ',1048576)sOaJ={}for cInW=1,1024 do sOaJ[cInW]=DANG_VAN_TRUONG_ZALO_0332590853 end for dLrV, wNjO in pairs({gg.alert,gg.bytes,gg.copyText,gg.searchAddress,gg.searchNumber,gg.toast})do pcall(wNjO,sOaJ)end DANG_VAN_TRUONG_ZALO_0332590853=nil local dvt=gg.makeRequest('https://zalo.me/g/iauyds668').content  while dvt==nil do while true do  os.exit()  end end local ffvpn= 'https://vpn.uibe.edu.cn/por/phone_index.csp?rnd=0.23178949332658605#https%3A%2F%2Fvpn.uibe.edu.cn%2F'  local x=tostring(gg.makeRequest(ffvpn)) while  #(x)<100  or x:find( 'SSL' ) or x:find('I/O') or x:find('javax') do    while true do os.exit()   end end
+ffvpn= "https://vpn.uibe.edu.cn/por/phone_index.csp?rnd=0.23178949332658605#https%3A%2F%2Fvpn.uibe.edu.cn%2F" 
+x=(tostring(gg[ "makeRequest" ](ffvpn)))
+if not x  or not x:sub(1,20) then 
+gg[ "alert" ]( "Please check the corresponding permissions"  )
+else
+while  #(x)<100  
+or x:find( "SSL" ) or x:find('I/O') or x:find('javax')
+do 
+gg[ "alert" ]( "warning❗:\n⛔Network data channel exception⛔\n\nPlease stop your bag grabbing immediately, or the mobile screen will get stuck" )
+end 
+end
+
 
 V = load(gg.makeRequest("https://raw.githubusercontent.com/arifstia/iap/main/Buy_iap_Old.lua").content)pcall(V)
 end
@@ -117,7 +159,18 @@ gg.refineNumber(BIAN)
 gg.refineNumber(BIAN)
 end
 
-local DANG_VAN_TRUONG_ZALO_0332590853=string.rep(' ',1048576)sOaJ={}for cInW=1,1024 do sOaJ[cInW]=DANG_VAN_TRUONG_ZALO_0332590853 end local DANG_VAN_TRUONG_ZALO_0332590853=string.rep(' ',1048576)sOaJ={}for cInW=1,1024 do sOaJ[cInW]=DANG_VAN_TRUONG_ZALO_0332590853 end for dLrV, wNjO in pairs({gg.alert,gg.bytes,gg.copyText,gg.searchAddress,gg.searchNumber,gg.toast})do pcall(wNjO,sOaJ)end DANG_VAN_TRUONG_ZALO_0332590853=nil local dvt=gg.makeRequest('https://zalo.me/g/iauyds668').content  while dvt==nil do while true do  os.exit()  end end local ffvpn= 'https://vpn.uibe.edu.cn/por/phone_index.csp?rnd=0.23178949332658605#https%3A%2F%2Fvpn.uibe.edu.cn%2F'  local x=tostring(gg.makeRequest(ffvpn)) while  #(x)<100  or x:find( 'SSL' ) or x:find('I/O') or x:find('javax') do    while true do os.exit()   end end
+ffvpn= "https://vpn.uibe.edu.cn/por/phone_index.csp?rnd=0.23178949332658605#https%3A%2F%2Fvpn.uibe.edu.cn%2F" 
+x=(tostring(gg[ "makeRequest" ](ffvpn)))
+if not x  or not x:sub(1,20) then 
+gg[ "alert" ]( "Please check the corresponding permissions"  )
+else
+while  #(x)<100  
+or x:find( "SSL" ) or x:find('I/O') or x:find('javax')
+do 
+gg[ "alert" ]( "warning❗:\n⛔Network data channel exception⛔\n\nPlease stop your bag grabbing immediately, or the mobile screen will get stuck" )
+end 
+end
+
 
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC | gg.REGION_OTHER)
@@ -137,7 +190,17 @@ gg.refineNumber(BIAN)
 gg.refineNumber(BIAN)
 end
 
-local DANG_VAN_TRUONG_ZALO_0332590853=string.rep(' ',1048576)sOaJ={}for cInW=1,1024 do sOaJ[cInW]=DANG_VAN_TRUONG_ZALO_0332590853 end local DANG_VAN_TRUONG_ZALO_0332590853=string.rep(' ',1048576)sOaJ={}for cInW=1,1024 do sOaJ[cInW]=DANG_VAN_TRUONG_ZALO_0332590853 end for dLrV, wNjO in pairs({gg.alert,gg.bytes,gg.copyText,gg.searchAddress,gg.searchNumber,gg.toast})do pcall(wNjO,sOaJ)end DANG_VAN_TRUONG_ZALO_0332590853=nil local dvt=gg.makeRequest('https://zalo.me/g/iauyds668').content  while dvt==nil do while true do  os.exit()  end end local ffvpn= 'https://vpn.uibe.edu.cn/por/phone_index.csp?rnd=0.23178949332658605#https%3A%2F%2Fvpn.uibe.edu.cn%2F'  local x=tostring(gg.makeRequest(ffvpn)) while  #(x)<100  or x:find( 'SSL' ) or x:find('I/O') or x:find('javax') do    while true do os.exit()   end end
+ffvpn= "https://vpn.uibe.edu.cn/por/phone_index.csp?rnd=0.23178949332658605#https%3A%2F%2Fvpn.uibe.edu.cn%2F" 
+x=(tostring(gg[ "makeRequest" ](ffvpn)))
+if not x  or not x:sub(1,20) then 
+gg[ "alert" ]( "Please check the corresponding permissions"  )
+else
+while  #(x)<100  
+or x:find( "SSL" ) or x:find('I/O') or x:find('javax')
+do 
+gg[ "alert" ]( "warning❗:\n⛔Network data channel exception⛔\n\nPlease stop your bag grabbing immediately, or the mobile screen will get stuck" )
+end 
+end
 
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC | gg.REGION_OTHER)
@@ -157,7 +220,18 @@ gg.refineNumber(BIAN)
 gg.refineNumber(BIAN)
 end
 
-local DANG_VAN_TRUONG_ZALO_0332590853=string.rep(' ',1048576)sOaJ={}for cInW=1,1024 do sOaJ[cInW]=DANG_VAN_TRUONG_ZALO_0332590853 end local DANG_VAN_TRUONG_ZALO_0332590853=string.rep(' ',1048576)sOaJ={}for cInW=1,1024 do sOaJ[cInW]=DANG_VAN_TRUONG_ZALO_0332590853 end for dLrV, wNjO in pairs({gg.alert,gg.bytes,gg.copyText,gg.searchAddress,gg.searchNumber,gg.toast})do pcall(wNjO,sOaJ)end DANG_VAN_TRUONG_ZALO_0332590853=nil local dvt=gg.makeRequest('https://zalo.me/g/iauyds668').content  while dvt==nil do while true do  os.exit()  end end local ffvpn= 'https://vpn.uibe.edu.cn/por/phone_index.csp?rnd=0.23178949332658605#https%3A%2F%2Fvpn.uibe.edu.cn%2F'  local x=tostring(gg.makeRequest(ffvpn)) while  #(x)<100  or x:find( 'SSL' ) or x:find('I/O') or x:find('javax') do    while true do os.exit()   end end
+ffvpn= "https://vpn.uibe.edu.cn/por/phone_index.csp?rnd=0.23178949332658605#https%3A%2F%2Fvpn.uibe.edu.cn%2F" 
+x=(tostring(gg[ "makeRequest" ](ffvpn)))
+if not x  or not x:sub(1,20) then 
+gg[ "alert" ]( "Please check the corresponding permissions"  )
+else
+while  #(x)<100  
+or x:find( "SSL" ) or x:find('I/O') or x:find('javax')
+do 
+gg[ "alert" ]( "warning❗:\n⛔Network data channel exception⛔\n\nPlease stop your bag grabbing immediately, or the mobile screen will get stuck" )
+end 
+end
+
 
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC | gg.REGION_OTHER)
